@@ -1,4 +1,5 @@
 Sales Analysis Dashboard Project:
+
 🔹Project Overview
 This project analyzes sales data to generate business insights using SQL, Python, and Power BI. The goal is to support data-driven decision-making by identifying trends in sales, customer behavior, and product performance.
 
